@@ -1,4 +1,6 @@
-package model;
+package util;
+
+import model.Figur;
 
 import java.util.Comparator;
 

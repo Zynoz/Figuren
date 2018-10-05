@@ -1,5 +1,9 @@
 package model;
 
+import util.CompareFlaeche;
+import util.CompareUmfang;
+import util.FigurenException;
+
 import java.util.LinkedList;
 
 public class FigurenVerwaltung {
